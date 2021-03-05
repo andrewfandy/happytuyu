@@ -1,2 +1,1 @@
-# happytuyu
-Hi there, i am Andrew~
+Just a program to move days
